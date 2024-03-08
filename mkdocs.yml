@@ -1,11 +1,12 @@
-site_name: Vincent Vango - Adventure Van
+site_name: Vincent Vango
+
 theme:
   name: material
   features:
-    - navigation.tabs
     - navigation.sections
+    - navigation.expand
+    - navigation.path
     - toc.integrate
-    - navigation.top
     - search.suggest
     - search.highlight
     - content.tabs.link
@@ -25,7 +26,31 @@ theme:
         name: Switch to Light mode
       primary: teal
       accent: lime
+  plugins:
+   - glightbox:
+       touchNavigation: true
+       loop: false
+       effect: zoom
+       slide_effect: slide
+       width: 100%
+       height: auto
+       zoomable: true
+       draggable: true
+       skip_classes:
+         - custom-skip-class-name
+       auto_caption: false
+       caption_position: bottom
+       background: white
+       shadow: true
 
+nav:
+  - Home: 'index.md'
+  - 'I. First Steps':
+    - 'Bulkhead Removal': 'bulkhead-removal.md'
+    - 'Rusty Floor': 'rusty-floor.md'
+  - About: 'about.md'
+
+    
 markdown_extensions: 
   - pymdownx.highlight:
       anchor_linenums: true
