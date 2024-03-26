@@ -48,6 +48,7 @@ nav:
   - 'I. First Steps':
     - 'Bulkhead Removal': 'bulkhead-removal.md'
     - 'Rusty Floor': 'rusty-floor.md'
+    - 'Stubby Antenna': 'stubby-antenna.md'
   - About: 'about.md'
 
     
