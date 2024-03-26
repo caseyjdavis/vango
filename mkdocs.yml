@@ -43,12 +43,23 @@ theme:
        background: white
        shadow: true
 
+plugins: 
+   - search :
+   - resize-images:
+        source-dir: assets-large
+        target-dir: assets
+        enable_cache: True
+        size: [800, 600]
+        extensions: ['.jpg', '.jpeg', '.png', '.gif', '.svg']
+
 nav:
   - Home: 'index.md'
   - 'I. First Steps':
     - 'Bulkhead Removal': 'bulkhead-removal.md'
     - 'Rusty Floor': 'rusty-floor.md'
     - 'Stubby Antenna': 'stubby-antenna.md'
+  - 'II. Insulation':
+    - 'Thinsulate': 'thinsulate.md'
   - About: 'about.md'
 
     
