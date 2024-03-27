@@ -2,6 +2,7 @@ site_name: Vincent Vango
 
 theme:
   name: material
+  theme:
   features:
     - navigation.sections
     - navigation.expand
@@ -79,3 +80,6 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
