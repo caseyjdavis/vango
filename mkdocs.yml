@@ -59,7 +59,8 @@ nav:
     - 'Rusty Floor': 'rusty-floor.md'
     - 'Stubby Antenna': 'stubby-antenna.md'
   - 'II. Insulation':
-    - 'Thinsulate': 'thinsulate.md'
+    - 'Headliner': 'headliner-insulation.md'
+    - 'Sliding Door': 'slider-insulation.md'
   - About: 'about.md'
 
     
