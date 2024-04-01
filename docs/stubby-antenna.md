@@ -5,3 +5,5 @@ The van came with a factory antenna that had the coating unraveling and looked p
 ![stubby antenna](assets/stubby-antenna-01.JPG)
 
 ![stubby antenna](assets/stubby-antenna-02.JPG)
+
+Next up, starting to insulate the van. > [Headliner Insulation](headliner-insulation.md)

@@ -21,3 +21,7 @@ There are large cavities on either side of the headliner that need to be filled
 I measured and cut the thinsulation and started sliding it down into the edge of the windshield
 
 ![headliner insulation](assets/headliner-insulate-05.JPG)
+
+Once the insulation was tucked in I buttoned it all back into place
+
+Next up, insulating the sliding rear door. > [Sliding Door Insulation](slider-insulation.md)

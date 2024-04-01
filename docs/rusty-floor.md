@@ -31,3 +31,5 @@ Here it is after four coats of primer, starting to look better
 Finally I laid down several coats of Rustoleum Automotive enamel paint
 
 ![rusty van floor](assets/rust-floor-08.JPG)
+
+Next up, replacing the raggidty radio antenna. > [Stubby Antenna](stubby-antenna.md)
