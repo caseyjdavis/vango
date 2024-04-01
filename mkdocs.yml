@@ -18,14 +18,15 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
-      primary: teal
-      accent: purple
+      primary: blue
+      accent: orange
     - scheme: slate
       toggle:
         icon: material/toggle-switch
         name: Switch to Light mode
-      primary: teal
-      accent: lime
+      primary: blue
+      accent: orange
+      
   plugins:
    - glightbox:
        touchNavigation: true
@@ -61,6 +62,9 @@ nav:
   - 'II. Insulation':
     - 'Headliner': 'headliner-insulation.md'
     - 'Sliding Door': 'slider-insulation.md'
+    - 'Sidewall Insulation': 'sidewall-insulation.md'
+  - 'III. Roof Rack':
+    - '80/20 Roof Rack': '8020-roof-rack.md'
   - About: 'about.md'
 
     
