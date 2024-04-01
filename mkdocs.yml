@@ -2,6 +2,8 @@ site_name: Vincent Vango
 
 theme:
   name: material
+  icon:
+    logo: assets/van-utility
   features:
     - navigation.sections
     - navigation.expand
@@ -14,19 +16,21 @@ theme:
     - content.code.copy
   language: en
   palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to Light mode
+      primary: blue
+      accent: orange
+  
     - scheme: default
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
       primary: blue
       accent: orange
-    - scheme: slate
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to Light mode
-      primary: blue
-      accent: orange
-      
+
   plugins:
    - glightbox:
        touchNavigation: true
@@ -63,7 +67,7 @@ nav:
     - 'Headliner': 'headliner-insulation.md'
     - 'Sliding Door': 'slider-insulation.md'
     - 'Sidewall Insulation': 'sidewall-insulation.md'
-  - 'III. Roof Rack':
+  - 'III. Roof':
     - '80/20 Roof Rack': '8020-roof-rack.md'
   - About: 'about.md'
 

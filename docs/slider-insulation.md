@@ -21,3 +21,5 @@ I tucked the thinsulate behind the cabling in the door having to cut little slit
 Here's what the finished door looks like after tucking in all insulation
 
 ![sliding door insulation](assets/slider-insulation-05.JPG)
+
+Next up, installing insulation in the back doors and sidewalls. > [Sidewall Insulation](sidewall-insulation.md)

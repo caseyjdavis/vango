@@ -1,8 +1,8 @@
 # Meet Vincent Vango
 
-![new van day](assets/van-day-01.JPG)
-
 This is my 2020 Ford Transit I purchased used via an auction here in Colorado. It was a Penske truck in its previous life. The van was a little scraped and dinged up when I picked it up but it was fleet maintained during the first four years of life.
+
+![new van day](assets/van-day-01.JPG)
 
 Specs:
 
