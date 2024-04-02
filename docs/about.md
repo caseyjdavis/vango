@@ -10,4 +10,4 @@ This gradually evolved into bed setup in the back of my 1996 Toyota Landcruiser 
 
 ![1996 Toyota Landcruiser Prado](assets/about-landcruiser-prado.jpg)
 
-Now I have graduated to a high roof van that I (6'2") can stand up inside! 🙌
+There were several other vehicles along the way and lots of amazing camping trips and now I am excited to have graduated to a high roof van that I (6'2") can stand up inside! 🙌

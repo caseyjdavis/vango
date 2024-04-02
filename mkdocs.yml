@@ -52,9 +52,11 @@ nav:
     - 'Sidewall Insulation': 'sidewall-insulation.md'
   - 'III. Roof':
     - '80/20 Roof Rack': '8020-roof-rack.md'
+    - 'Vent Fan': 'maxxfan.md'
   - 'IV. Electrical':
     - 'Solar Panels': 'solar-panels.md'
     - 'Ecoflow': 'ecoflow.md'
+    - 'Lighting': 'lighting.md'
   - About: 'about.md'
 
     
