@@ -5,10 +5,9 @@ theme:
     logo: material/van-utility
   name: material
   features:
+    - header.autohide
     - navigation.sections
-    - navigation.expand
-    - navigation.path
-    - toc.integrate
+    - navigation.top
     - search.suggest
     - search.highlight
     - content.tabs.link
@@ -16,8 +15,7 @@ theme:
     - content.code.copy
   language: en
   palette:
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
+    - scheme: slate
       toggle:
         icon: material/toggle-switch
         name: Switch to Light mode
@@ -46,6 +44,7 @@ nav:
     - 'Bulkhead Removal': 'bulkhead-removal.md'
     - 'Rusty Floor': 'rusty-floor.md'
     - 'Stubby Antenna': 'stubby-antenna.md'
+    - 'Missing Pieces': 'missing-pieces.md'
   - 'II. Insulation':
     - 'Headliner': 'headliner-insulation.md'
     - 'Sliding Door': 'slider-insulation.md'
@@ -55,8 +54,11 @@ nav:
     - 'Vent Fan': 'maxxfan.md'
   - 'IV. Electrical':
     - 'Solar Panels': 'solar-panels.md'
-    - 'Ecoflow': 'ecoflow.md'
+    - 'Powerbank': 'ecoflow.md'
     - 'Lighting': 'lighting.md'
+  - 'V. Van Upgrades':
+    - 'Tires': 'tires.md'
+    - 'Radio': 'radio.md'
   - About: 'about.md'
 
     
