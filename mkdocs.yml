@@ -57,8 +57,10 @@ nav:
     - 'Powerbank': 'ecoflow.md'
     - 'Lighting': 'lighting.md'
   - 'V. Van Upgrades':
-    - 'Tires': 'tires.md'
+    - 'Tires': 'tires.md' 
     - 'Radio': 'radio.md'
+  - 'VI. Interior':
+    - 'Lagun Table': 'lagun-table.md'
   - About: 'about.md'
 
     
