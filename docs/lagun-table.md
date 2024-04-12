@@ -36,4 +36,8 @@ Finally you can swivel the table out the sliding door and it makes a handy table
 
 ![lagun table](assets/lagun-table-06.JPG)
 
-The beauty of the Lagun tables are the cam lock levers that make it quick and easy to put the table up and take it down when you are driving.
+The beauty of the Lagun tables are the cam lock levers that make it quick and easy to put the table up and take it down when you are driving. This is a shot after I installed the seat swivel.
+
+![lagun table](assets/lagun-table-10.JPG)
+
+Next up, installing the passenger seat swivel. :arrow_forward: [Seat Swivel](seat-swivel.md)

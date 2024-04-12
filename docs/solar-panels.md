@@ -14,4 +14,28 @@ To test the panel, I connected it to the Ecoflow Delta 2 Max I am going to use t
 
 ![solar panels](assets/solar-panels-02.JPG)
 
+I needed to install a cable gland in order to route the cables to the inside of the van to charge the Ecoflow Delta 2 Max. I ended up using Dicor Lap Sealant for the adhesion on the roof. This photo shows the green painters tape as a template so I could peel up the tape and leave a nice line once the sealant was a little set.
+
+![solar panels](assets/solar-panels-04.JPG)
+
+Here's a second angle to the cable gland showing the cable input holes.
+
+![solar panels](assets/solar-panels-05.JPG)
+
+This is a finished photo of the cable gland with the sealant fully cured.
+
+![solar panels](assets/solar-panels-06.JPG)
+
+I am dry fitting the cables through the gland and planning on how they will be routed under the solar panels. I used the Renogy 220 watt solar panels purchased via Amazon.
+
+![solar panels](assets/solar-panels-07.JPG)
+
+Here's how the solar mount is mounted to the 8020 aluminum extrusion. There is a carriage bolt supported with a nylon locked washer.
+
+![solar panels](assets/solar-panels-08.JPG)
+
+Another dry fit shot, this is how the solar panel will sit once finally installed.
+
+![solar panels](assets/solar-panels-09.JPG)
+
 Next up, more about the Ecoflow Delta 2 Max. :arrow_forward: [Ecoflow](ecoflow.md)

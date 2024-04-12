@@ -14,6 +14,32 @@ Lots of measuring on a step ladder later, I decided on 74" lengths of 1503-LS ex
 
 ![80/20 DIY Roof Rack](assets/8020-roof-rack-03.jpg)
 
-Stay tuned, I am waiting on hardware to show up before continuing work on the roof rack!
+The brackets come with a 3M adhesive rubber patch to place on the underside of the base to keep it from scratching the roof and provide a little weather barrier.
+
+![80/20 DIY Roof Rack](assets/8020-roof-rack-04.JPG)
+
+Applying the rubber patch to the underside of the mount that is already attached to the 80/20.
+
+![80/20 DIY Roof Rack](assets/8020-roof-rack-05.JPG)
+
+Here's another shot showing the before/after.
+
+![80/20 DIY Roof Rack](assets/8020-roof-rack-06.JPG)
+
+There are pre-threaded holes on the roof of the van that are covered with a rubber patch. I used a trim tool to pry up four stickers to access the threaded insert.
+
+![80/20 DIY Roof Rack](assets/8020-roof-rack-07.JPG)
+
+Here's a dry fit of the mount tower with the screws.
+
+![80/20 DIY Roof Rack](assets/8020-roof-rack-08.JPG)
+
+The finished look, I like the low stance of the rack and it will support the weight of the solar panels easily.
+
+![80/20 DIY Roof Rack](assets/8020-roof-rack-09.JPG)
+
+Here's another look of the rack from the rear of the van.
+
+![80/20 DIY Roof Rack](assets/8020-roof-rack-10.JPG)
 
 Next up, a look at the solar panels. :arrow_forward: [Solar Panels](solar-panels.md)
