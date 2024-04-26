@@ -10,4 +10,4 @@ Installation was super easy, 30 second install screwing it in by hand.
 
 ![stubby antenna](assets/stubby-antenna-02.JPG)
 
-Next up, starting to insulate the van. :arrow_forward: [Headliner Insulation](headliner-insulation.md)
+Next up, installing some missing pieces on the van. :arrow_forward: [Missing Pieces](missing-pieces.md)
