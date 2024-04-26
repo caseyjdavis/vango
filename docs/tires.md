@@ -15,3 +15,5 @@ I decided to go black letter out on these tires, really aggresive tread.
 
 Van has less of a front rake now, sits more level yay!
 ![new tires](assets/new-tires-04.JPG)
+
+Next up, a much needed radio upgrade. :arrow_forward: [Radio Upgrade](radio.md)

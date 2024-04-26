@@ -26,3 +26,5 @@ Charging time in partial shade on the Ecoflow app. Charging time was 40 minutes 
 ![Ecoflow](assets/ecoflow-02.png)
 
 Stay tuned, I am working on finalizing the DC panel to run the lighting, fans, etc.
+
+Next up, interior lighting. :arrow_forward: [Lighting](lighting.md)

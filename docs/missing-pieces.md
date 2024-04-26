@@ -20,4 +20,4 @@ Looked really nice when the pom rivets where installed in place, license plate f
 
 
 
-Next up, starting to insulate the van. :arrow_forward: [Headliner Insulation](headliner-insulation.md)
+Next up, basic maintenance needed to be done. :arrow_forward: [Maintenance](maintenance.md)

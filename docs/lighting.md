@@ -21,3 +21,5 @@ Right now I am between using the 12 volt puck LED lights I used in my Delica bui
 ![led square light](assets/lighting-03.jpg)
 
 Stay tuned, more to come on lighting upgrades
+
+Next up, upgrading tires. :arrow_forward: [Big Tires](tires.md)

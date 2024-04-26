@@ -26,4 +26,4 @@ Drilling the holes for the metal rib mounts/studs. I'll cover that in a differen
 
 ![wood subfloor](assets/wood-subfloor-06.JPG)
 
-Next up, installing the wood sub flooring. :arrow_forward: [Wood Subfloor](wood-subfloor.md)
+Next up, installing the Lagun Table. :arrow_forward: [Lagun Table](lagun-table.md)

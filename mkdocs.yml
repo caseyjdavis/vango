@@ -45,6 +45,7 @@ nav:
     - 'Rusty Floor': 'rusty-floor.md'
     - 'Stubby Antenna': 'stubby-antenna.md'
     - 'Missing Pieces': 'missing-pieces.md'
+    - 'Maintenance': 'maintenance.md'
   - 'II. Insulation':
     - 'Headliner': 'headliner-insulation.md'
     - 'Sliding Door': 'slider-insulation.md'
@@ -52,7 +53,7 @@ nav:
     - 'Roof Insulation': 'roof-insulation.md'
   - 'III. Roof':
     - '80/20 Roof Rack': '8020-roof-rack.md'
-    - 'Vent Fan': 'maxxfan.md'
+    - 'Vent Fan': 'vent-fan.md'
   - 'IV. Electrical':
     - 'Solar Panels': 'solar-panels.md'
     - 'Powerbank': 'ecoflow.md'
