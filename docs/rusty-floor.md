@@ -28,9 +28,13 @@ Here it is after four coats of primer, starting to look better. :thumbsup:
 
 ![rusty van floor](assets/rust-floor-07.JPG)
 
-Finally I laid down several coats of Rustoleum Automotive enamel paint.
+I laid down several coats of Rustoleum Automotive enamel paint.
 
 ![rusty van floor](assets/rust-floor-08.JPG)
+
+Finally I used Tiger Seal to plug up the holes that were left so moisture can't get up through the floor
+
+![rusty van floor](assets/rust-floor-09.JPG)
 
 I left the floor to cure for several days while I was away so the paint hardened and it was ready for the Bedrug foam mat I was going to lay as the insulating floor layer.
 

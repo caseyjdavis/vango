@@ -61,6 +61,7 @@ nav:
     - 'Tires': 'tires.md' 
     - 'Radio': 'radio.md'
   - 'VI. Interior':
+    - 'Wood Subfloor': 'wood-subfloor.md'
     - 'Lagun Table': 'lagun-table.md'
     - 'Seat Swivel': 'seat-swivel.md'
   - About: 'about.md'
