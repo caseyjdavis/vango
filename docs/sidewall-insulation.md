@@ -14,4 +14,4 @@ Here's a fully stuffed side wall of the van ready to be hidden behind a plastic 
 
 ![sidewall insulation](assets/sidewall-insulation-03.JPG)
 
-Next up, constructing an inexpensive roof rack :arrow_forward: [80/20 Roof Rack](8020-roof-rack.md)
+Next up, insulating the roof :arrow_forward: [Roof Insulation](roof-insulation.md)
