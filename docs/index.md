@@ -4,12 +4,34 @@ This is my 2020 Ford Transit I purchased used at auction in northern Colorado. I
 
 ![New van day](assets/van-day-01.JPG)
 
-Specs:
 
-- 2020 Ford Transit T-250
-- 3.5L PFDI V6 engine producing 275HP
-- Rear Wheel Drive
-- Mileage: 100,896 as of April 1st, 2024
+
+<div class="grid cards" markdown>
+
+-   ## Specs
+
+    ---
+
+    :material-van-utility: __2020 Ford Transit T-250__
+
+    ---
+    
+    :material-tape-measure: __148 Wheel Base High Roof__
+
+    ---
+    
+    :material-engine-outline: __3.5L PFDI V6 engine producing 275HP__
+
+    ---
+
+    :octicons-milestone-16: __Mileage: 100,896 as of April 1st, 2024__
+
+    ---
+
+    :wheel: __Transmission: Rear Wheel Drive__
+
+    
+</div>
 
 These are my notes as I baseline and build out the van for weekend adventuring, remote office and using as a utility vehicle.
 
