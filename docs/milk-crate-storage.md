@@ -34,3 +34,5 @@ Another shot from the front of the van showing more crates installed. Once hard 
 Here is what I whipped up in Fusion 360 to set off the front of the lip of the shelf and is long enough to "lock" in the crate while moving. Taking out the crate is easy just lifting the crate over the bump stop and sliding it over the top.
 
 ![milk-crate-storage](assets/milk-crate-storage-08.JPG)
+
+Next up, building a platform bed. :arrow_forward: [Platform Bed](platform-bed.md)

@@ -19,5 +19,14 @@ Looked really nice when the pom rivets where installed in place, license plate f
 ## Driver's Door Seal
 
 
+## Spare Tire
+
+When I purchased the van it did not come with a spare tire so I needed to find a rim to mount a spare tire. I ended up finding a Transit 5 lug rim for sale on eBay for $129.
+
+![spare tire](assets/missing-pieces-04.JPG)
+
+I took the rim to my local tire shop and had it mounted and balanced for $25. Cranked it up under the van and now I'm ready for a road trip!
+
+![spare tire](assets/missing-pieces-05.JPG)
 
 Next up, basic maintenance needed to be done. :arrow_forward: [Maintenance](maintenance.md)

@@ -13,3 +13,5 @@ The holes did not line up very well from the Scopema mount to the seat mounts. I
 Here is a shot of the seat swivel installed on top of the Ford seat mount.
 
 ![seat swivel](assets/seat-swivel-03.JPG)
+
+Next up, building milk crate storage for the back of the van. :arrow_forward: [Milk Crate Storage](milk-crate-storage.md)
