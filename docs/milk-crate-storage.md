@@ -35,4 +35,16 @@ Here is what I whipped up in Fusion 360 to set off the front of the lip of the s
 
 ![milk-crate-storage](assets/milk-crate-storage-08.JPG)
 
+Installed on the corners of the shelf.
+
+![milk-crate-storage](assets/milk-crate-storage-09.JPG)
+
+Added bonus - the milk crates hang out perfect without needed any kind of hinges or anything.
+
+![milk-crate-storage](assets/milk-crate-storage-10.JPG)
+
+The crate drops into place and is nice and snug while driving.
+
+![milk-crate-storage](assets/milk-crate-storage-11.JPG)
+
 Next up, building a platform bed. :arrow_forward: [Platform Bed](platform-bed.md)

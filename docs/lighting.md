@@ -18,8 +18,20 @@ Right now I am between using the 12 volt puck LED lights I used in my Delica bui
 
 ![12 volt puck light](assets/lighting-02.jpg)
 
-![led square light](assets/lighting-03.jpg)
+Here's the finished install in the roof liner.
 
-Stay tuned, more to come on lighting upgrades
+![finished install](assets/lighting-04.JPG)
+
+I used WAGO lever connectors to tap the led lights into 12 volt power.
+
+![wiring with WAGO lever connectors](assets/lighting-05.JPG)
+
+Here you can see I am able to tap into another led light.
+
+![wiring a second light off first](assets/lighting-06.JPG)
+
+Finished led lighting, the front pair of lights are white light and not warm light.
+
+![finished install](assets/lighting-07.JPG)
 
 Next up, upgrading tires. :arrow_forward: [Big Tires](tires.md)

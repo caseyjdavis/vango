@@ -42,4 +42,4 @@ Here's another look of the rack from the rear of the van.
 
 ![80/20 DIY Roof Rack](assets/8020-roof-rack-10.JPG)
 
-Next up, installing a vent fan. :arrow_forward: [Vent Fan](vent-fan.md)
+Next up, installing solar panels. :arrow_forward: [Solar Panels](solar-panels.md)

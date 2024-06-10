@@ -1,3 +1,3 @@
 # Coming Soon
 
-Next up, installing the wood subfloor. :arrow_forward: [Wood Subfloor](wood-subfloor.md)
+Next up, installing the swaybar. :arrow_forward: [Swaybar](swaybar.md)

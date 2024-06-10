@@ -53,7 +53,6 @@ nav:
     - 'Roof Insulation': 'roof-insulation.md'
   - 'III. Roof':
     - '80/20 Roof Rack': '8020-roof-rack.md'
-    - 'Vent Fan': 'vent-fan.md'
   - 'IV. Electrical':
     - 'Solar Panels': 'solar-panels.md'
     - 'Powerbank': 'ecoflow.md'
@@ -61,8 +60,10 @@ nav:
   - 'V. Van Upgrades':
     - 'Tires': 'tires.md' 
     - 'Radio': 'radio.md'
+    - 'Swaybar': 'swaybar.md'
   - 'VI. Interior':
     - 'Wood Subfloor': 'wood-subfloor.md'
+    - 'Inside Ceiling': 'ceiling.md'
     - 'Lagun Table': 'lagun-table.md'
     - 'Seat Swivel': 'seat-swivel.md'
     - 'Milk Crate Storage': 'milk-crate-storage.md'
