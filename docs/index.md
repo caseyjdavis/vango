@@ -35,4 +35,15 @@ This is my 2020 Ford Transit I purchased used at auction in northern Colorado. I
 
 These are my notes as I baseline and build out the van for weekend adventuring, remote office and using as a utility vehicle.
 
+## New Pages 
+
+As of 6/10/2024
+
+:new: [Lighting](lighting.md)
+
+:new: [Swaybar](swaybar.md)
+
+:new: [Inside Ceiling](ceiling.md)
+
+
 Navigate using the menus on the left or :arrow_forward: [First Steps: Bulkhead Removal](bulkhead-removal.md)
