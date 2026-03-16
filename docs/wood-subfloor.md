@@ -1,4 +1,4 @@
-# Installing the subfloor
+# Installing the Wood Subfloor
 
 I decided upon 1/2" baltic birch plywood for the sub floor of the van. It's thick enough not to bend under the weight but not too thick and overkill for just light usage. I lucked out and was able to use the rubber floor mat that came with the van to template the sheets of plywood for cutting. It took 3 4x8 sheets to outfit the van with some scrap left over.
 

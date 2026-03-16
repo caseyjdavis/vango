@@ -8,7 +8,7 @@ This was after a light pass of sanding and scraping, fortunately it's just surfa
 
 ![rusty van floor](assets/rust-floor-02.JPG)
 
-I ended up using Permatex rust disolving gel on the floor and that helped to convert the rust.
+I ended up using Permatex rust dissolving gel on the floor and that helped to convert the rust.
 
 ![rusty van floor](assets/rust-floor-03.JPG)
 
@@ -38,4 +38,4 @@ Finally I used Tiger Seal to plug up the holes that were left so moisture can't 
 
 I left the floor to cure for several days while I was away so the paint hardened and it was ready for the Bedrug foam mat I was going to lay as the insulating floor layer.
 
-Next up, replacing the raggidty radio antenna. :arrow_forward: [Stubby Antenna](stubby-antenna.md)
+Next up, replacing the raggedy radio antenna. :arrow_forward: [Stubby Antenna](stubby-antenna.md)

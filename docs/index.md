@@ -1,6 +1,6 @@
-# Meet Vincent Vango
+# Meet Vincent Vango: A Ford Transit Van Conversion Build
 
-This is my 2020 Ford Transit I purchased used at auction in northern Colorado. It was a Penske truck in its previous life. The van was a little scraped and dinged up but otherwise in fine shape considering its age. It was fleet maintained so there was always regularly scheduled oil changes and a new pair of front brake pads before I became the owner.
+This is my 2020 Ford Transit 250 — a former Penske rental truck I picked up at auction in northern Colorado. A little scraped and dinged, but fleet-maintained with regular oil changes and fresh front brake pads. Good bones for a van build.
 
 ![New van day](assets/van-day-01.JPG)
 
@@ -33,7 +33,7 @@ This is my 2020 Ford Transit I purchased used at auction in northern Colorado. I
     
 </div>
 
-These are my notes as I baseline and build out the van for weekend adventuring, remote office and using as a utility vehicle.
+These are my notes documenting the Ford Transit van conversion — from rust mitigation and insulation to solar power, a platform bed, and all the van life upgrades in between. Whether you're planning your own camper van build or just here for the ride, welcome.
 
 ## New Pages 
 

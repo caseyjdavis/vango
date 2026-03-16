@@ -12,7 +12,7 @@ I ended up using the PITTSBURGH 7 in. Poly Hand Riveter Kit from Harbor Freight 
 
 ![license plate bracket](assets/missing-pieces-03.JPG)
 
-Looked really nice when the pom rivets where installed in place, license plate firmly in place now!
+Looked really nice when the pop rivets were installed in place, license plate firmly in place now!
 
 ![license plate bracket](assets/missing-pieces-02.JPG)
 

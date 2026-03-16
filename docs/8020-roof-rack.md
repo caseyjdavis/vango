@@ -6,7 +6,7 @@ I found these aluminum brackets on [DIYVan](https://diyvan.com) for mounting 80/
 
 ![80/20 DIY Roof Rack](assets/8020-roof-rack-01.jpg)
 
-After goolging I found exactly what I was looking for, nice and simple. It's 15 series 80/20 aluminum extrusion sitting on top of mounts that attach to the threaded roof openings.
+After googling I found exactly what I was looking for, nice and simple. It's 15 series 80/20 aluminum extrusion sitting on top of mounts that attach to the threaded roof openings.
 
 ![80/20 DIY Roof Rack](assets/8020-roof-rack-02.jpg)
 

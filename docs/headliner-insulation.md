@@ -1,4 +1,4 @@
-# Thinsulate Headliner
+# Thinsulate Headliner Insulation
 
 Everyone who builds out a camper vehicle seems to have their own opinion about insulation. I feel like I have read a hundred different ways to do it and ultimately I ended up choosing [3M SM600L Acoustic and Thermal insulation](https://www.3m.com/3M/en_US/p/d/b40068152/) for Vincent. This was largely based off the in-depth and excellent website guide from [Far Out Ride](https://faroutride.com/insulation/).
 

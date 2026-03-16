@@ -6,7 +6,7 @@ I considered the measurements when ordering the panel but was shocked when it ac
 
 ![solar panels](assets/solar-panels-01.JPG)
 
-The box that was labeled "FRAGILE" everywhere had footprints all over it so I was half expecting the panel to be broken. I am testing the voltage of the panel with a multimeter to make ensure there are no shorts. If it tests to 21 volts that is in the acceptable range.
+The box that was labeled "FRAGILE" everywhere had footprints all over it so I was half expecting the panel to be broken. I am testing the voltage of the panel with a multimeter to make sure there are no shorts. If it tests to 21 volts that is in the acceptable range.
 
 ![solar panels](assets/solar-panels-03.png)
 

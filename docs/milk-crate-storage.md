@@ -1,6 +1,6 @@
 # Milk Crate Storage
 
-I have standardized nearly all of my tools and screws and stuff into milk crates since they are a pretty good size, they are cheap to aquire and won't be obsolete in a few years like the rolling toolbox systems they sell at the big box stores.
+I have standardized nearly all of my tools and screws and stuff into milk crates since they are a pretty good size, they are cheap to acquire and won't be obsolete in a few years like the rolling toolbox systems they sell at the big box stores.
 
 
 This is a quick rendering that I whipped up in Fusion 360 to give me an idea on how much plywood I needed to purchase for the shelving.
@@ -27,7 +27,7 @@ You can see the long 3" board running the length of the van which is where I wil
 
 ![milk-crate-storage](assets/milk-crate-storage-06.JPG)
 
-Another shot from the front of the van showing more crates installed. Once hard right turn later they all spilled out on the floor of the van so I set off to design a "bump stop" to keep the crates in place while driving.
+Another shot from the front of the van showing more crates installed. One hard right turn later they all spilled out on the floor of the van so I set off to design a "bump stop" to keep the crates in place while driving.
 
 ![milk-crate-storage](assets/milk-crate-storage-07.JPG)
 
@@ -39,7 +39,7 @@ Installed on the corners of the shelf.
 
 ![milk-crate-storage](assets/milk-crate-storage-09.JPG)
 
-Added bonus - the milk crates hang out perfect without needed any kind of hinges or anything.
+Added bonus - the milk crates hang out perfect without needing any kind of hinges or anything.
 
 ![milk-crate-storage](assets/milk-crate-storage-10.JPG)
 

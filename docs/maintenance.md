@@ -1,6 +1,6 @@
 # Maintenance and Baseline
 
-Here are some of the things I did to base line the vehicle, just basic maintenance stuff.
+Here are some of the things I did to baseline the vehicle — just basic maintenance stuff before the real build work began.
 
 ## Rear Brakes
 

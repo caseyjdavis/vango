@@ -2,7 +2,7 @@
 
 ## Party Lights
 
-I probably spent way too much time thinking through this portion of the install but with led's and RGB lighting there are so many fun options that don't cost a lot of money. Here's a quick demo of what I am want to install on the ceiling:
+I probably spent way too much time thinking through this portion of the install but with LEDs and RGB lighting there are so many fun options that don't cost a lot of money. Here's a quick demo of what I want to install on the ceiling:
 
 ![lighting test](assets/lighting.gif)
 
@@ -22,15 +22,15 @@ Here's the finished install in the roof liner.
 
 ![finished install](assets/lighting-04.JPG)
 
-I used WAGO lever connectors to tap the led lights into 12 volt power.
+I used WAGO lever connectors to tap the LED lights into 12 volt power.
 
 ![wiring with WAGO lever connectors](assets/lighting-05.JPG)
 
-Here you can see I am able to tap into another led light.
+Here you can see I am able to tap into another LED light.
 
 ![wiring a second light off first](assets/lighting-06.JPG)
 
-Finished led lighting, the front pair of lights are white light and not warm light.
+Finished LED lighting, the front pair of lights are white light and not warm light.
 
 ![finished install](assets/lighting-07.JPG)
 

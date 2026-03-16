@@ -7,10 +7,10 @@ These tires are 255/70/R16 BFGoodrich KO2's which funny enough are the same tire
 **Before:** Puny, pathetic donuts of tires barely able to withstand an I-70 pothole.
 ![new tires](assets/new-tires-01.JPG)
 
-**After:** Meaty, aggresive tires ready to take Vincent Vango to places never before dreamed.
+**After:** Meaty, aggressive tires ready to take Vincent Vango to places never before dreamed.
 ![new tires](assets/new-tires-02.JPG)
 
-I decided to go black letter out on these tires, really aggresive tread.
+I decided to go black letter out on these tires, really aggressive tread.
 ![new tires](assets/new-tires-03.JPG)
 
 Van has less of a front rake now, sits more level yay!

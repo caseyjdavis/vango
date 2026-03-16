@@ -15,7 +15,7 @@ Specs:
 
 I ended up getting this unit on sale for a pretty good price during Thanksgiving 2023. This was before I even had the van but I knew it would be really useful camping or working remotely.
 
-But in the van it will fit comfortably under a bench or behind a storage compartment, have easy access to solar cables from the roof and should be much simplier to integrate. :fingers_crossed:
+But in the van it will fit comfortably under a bench or behind a storage compartment, have easy access to solar cables from the roof and should be much simpler to integrate. :fingers_crossed:
 
  The solar panel connected directly to the Ecoflow via XT60 connector. Quick backyard test.
 

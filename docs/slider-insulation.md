@@ -1,4 +1,4 @@
-# Insulate the Doors
+# Sliding Door Insulation
 
 After carefully prying off the plastic clips to the sliding door card, there is a plastic sheeting installed by the factory that is needed to be removed. If you slowly pull on the edges you can remove the rubber gasket material and it will peel back along with the plastic sheet. A heatgun is really helpful for this.
 
@@ -6,11 +6,11 @@ This is what the sliding door looks like after I started peeling the plastic she
 
 ![sliding door insulation](assets/slider-insulation-01.JPG)
 
-I had to do some quick measuring for cutting around the metal studs that reenforce the door. I plan on routing the insulation behind the cabling in case I need to work on that later.
+I had to do some quick measuring for cutting around the metal studs that reinforce the door. I plan on routing the insulation behind the cabling in case I need to work on that later.
 
 ![sliding door insulation](assets/slider-insulation-02.JPG)
 
-I used the corrugated plastic sheeting that came from the facotry as a template to cut the thinsulate insulation. A heavy duty pair of kitchen scissors is great for this thick material.
+I used the corrugated plastic sheeting that came from the factory as a template to cut the thinsulate insulation. A heavy duty pair of kitchen scissors is great for this thick material.
 
 ![sliding door insulation](assets/slider-insulation-03.jpg)
 
